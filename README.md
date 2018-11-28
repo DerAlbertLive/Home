@@ -1,2 +1,7 @@
 # Home
-https://www.twitch.tv/albertweinert
+
+Das Repository zum Streaming Kanal https://www.twitch.tv/albertweinert
+
+Legt Issues an für Wünsche, Verbesserungen sw.
+
+Albert

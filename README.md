@@ -1,6 +1,6 @@
 # Home
 
-Das Repository zum Streaming Kanal https://www.twitch.tv/albertweinert
+Das Repository zum Streaming Kanal https://www.twitch.tv/DerAlberLive
 
 Der Build Server: https://dev.azure.com/deralbert/Live%20Stream/
 
